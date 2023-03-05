@@ -13,7 +13,8 @@
     "ejer6": "tsc-watch --onSuccess \"node dist/ejercicio-6.js\"",
     "ejer7": "tsc-watch --onSuccess \"node dist/ejercicio-7.js\"",
     "ejer8": "tsc-watch --onSuccess \"node dist/ejercicio-8.js\"",
-    "doc": "typedoc"
+    "doc": "typedoc",
+    "coverage": "nyc npm test"
   },
   "keywords": [],
   "author": "",
